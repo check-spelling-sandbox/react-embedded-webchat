@@ -72,7 +72,7 @@ const EmbeddedWebchat = (props: Props) => {
       closeOnEscape: false,
       containerWidth: encodeURIComponent("100%"),
       layoutWidth: encodeURIComponent("100%"),
-      // These 3 should use real bot info
+      // These three should use real bot info
       botName: "anonymized",
       botConversationDescription:
         "Chat with this bot built surprisingly fast in Botpress",
